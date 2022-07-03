@@ -2,18 +2,12 @@
 
 ## Project setup
 ```
-1. cd server/
-2. npm install
-3. cd tic-tac-toe/
-4. npm install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-1. cd server/
-2. node server.js
-1. cd tic-tac-toe
-2. npm run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
